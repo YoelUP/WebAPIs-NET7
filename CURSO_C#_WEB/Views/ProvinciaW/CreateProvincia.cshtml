@@ -1,0 +1,27 @@
+﻿@model CURSO_C__WEB.Models.DTO.ProvinciaDTO
+@{
+    ViewData["Title"] = "CreateProvincia";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>CreateProvincia</h1>
+<form method="post" asp-action="CreateProvincia">
+    <div class="container boder p-3">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="row">
+            <h2 class="text-info"> Create New Provincia</h2>
+        </div>
+        <div class="row mt-2">
+            <div class="col-md-6">
+                <label class="form-label">Name Provincia </label>
+                <input asp-for="nomprovincia" class="form-control" />
+                <span asp-validation-for="nomprovincia" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="d-grid gap-2 d-md-block mt-2">
+            <button type="submit" class="btn btn-primary">Create</button>
+            <a asp-controller="Provincia" asp-action="IndexProvincia" class="btn btn-success">Return Back </a>
+        </div>
+    </div>
+</form>

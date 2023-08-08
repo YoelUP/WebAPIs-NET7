@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CURSOC#_UTILITY/1.0.0": {
+        "runtime": {
+          "CURSOC#_UTILITY.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CURSOC#_UTILITY/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

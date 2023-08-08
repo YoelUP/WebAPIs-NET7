@@ -1,0 +1,36 @@
+﻿@model IEnumerable<CURSO_C__WEB.Models.DTO.ProvinciaDTO>
+@{
+    ViewData["Title"] = "IndexProvincia";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="Container p-4" border>
+    <div class="row pb-2">
+        <div class="col">
+            <h1 class="text-primary">Lista de provincias</h1>
+        </div>
+        <div class="col text-end pt-1">
+            <a asp-controller="ProvinciaW" asp-action="CreateProvincia" class="btn btn-outline-primary"><i class="bi bi-plus-circle"></i> Crear Provincia</a>
+        </div>
+    </div>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>NOMBRE</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.nomprovincia</td>
+                    <td>
+                        <a asp-controller="ProvinciaW" asp-action="EditProvinciaC" class="btn btn-outline-primary"><i class="bi bi-pencil-square"></i></a>
+                        <a asp-controller="ProvinciaW" asp-action="DeleteProvinciaC" class="btn btn-outline-primary"><i class="bi bi-x-square"></i></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

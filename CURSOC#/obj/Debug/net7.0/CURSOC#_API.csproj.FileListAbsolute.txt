@@ -1,0 +1,228 @@
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\appsettings.Development.json
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\appsettings.json
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\CURSOC#_API.exe
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\CURSOC#_API.deps.json
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\CURSOC#_API.runtimeconfig.json
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\CURSOC#_API.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\CURSOC#_API.pdb
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Azure.Core.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Azure.Identity.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Humanizer.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\System.CodeDom.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.csproj.AssemblyReference.cache
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.AssemblyInfoInputs.cache
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.AssemblyInfo.cs
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.csproj.CoreCompileInputs.cache
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\staticwebassets\msbuild.CURSOC#_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\staticwebassets\msbuild.build.CURSOC#_API.props
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CURSOC#_API.props
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CURSOC#_API.props
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\staticwebassets.build.json
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\staticwebassets.development.json
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\scopedcss\bundle\CURSOC#_API.styles.css
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.csproj.CopyComplete
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\refint\CURSOC#_API.dll
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.pdb
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.genruntimeconfig.cache
+D:\Proyectos\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\ref\CURSOC#_API.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\appsettings.json
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\CURSOC#_API.exe
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\CURSOC#_API.deps.json
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\CURSOC#_API.runtimeconfig.json
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\CURSOC#_API.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\CURSOC#_API.pdb
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Humanizer.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.csproj.AssemblyReference.cache
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.AssemblyInfoInputs.cache
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.AssemblyInfo.cs
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.csproj.CoreCompileInputs.cache
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\staticwebassets\msbuild.CURSOC#_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\staticwebassets\msbuild.build.CURSOC#_API.props
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CURSOC#_API.props
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CURSOC#_API.props
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\scopedcss\bundle\CURSOC#_API.styles.css
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.csproj.CopyComplete
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\refint\CURSOC#_API.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.pdb
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\CURSOC#_API.genruntimeconfig.cache
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#\obj\Debug\net7.0\ref\CURSOC#_API.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\appsettings.Development.json
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\appsettings.json
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\CURSOC#_API.exe
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\CURSOC#_API.deps.json
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\CURSOC#_API.runtimeconfig.json
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\CURSOC#_API.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\CURSOC#_API.pdb
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Azure.Core.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Azure.Identity.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Humanizer.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\System.CodeDom.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\CURSOC#_API.csproj.AssemblyReference.cache
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\CURSOC#_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\CURSOC#_API.AssemblyInfoInputs.cache
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\CURSOC#_API.AssemblyInfo.cs
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\CURSOC#_API.csproj.CoreCompileInputs.cache
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\CURSOC#_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\CURSOC#_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\staticwebassets\msbuild.CURSOC#_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\staticwebassets\msbuild.build.CURSOC#_API.props
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CURSOC#_API.props
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CURSOC#_API.props
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\staticwebassets.build.json
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\staticwebassets.development.json
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\scopedcss\bundle\CURSOC#_API.styles.css
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\CURSOC#_API.csproj.CopyComplete
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\CURSOC#_API.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\refint\CURSOC#_API.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\CURSOC#_API.pdb
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\CURSOC#_API.genruntimeconfig.cache
+D:\Proyectos\Web APIs (NET 7)\CURSOC#\obj\Debug\net7.0\ref\CURSOC#_API.dll

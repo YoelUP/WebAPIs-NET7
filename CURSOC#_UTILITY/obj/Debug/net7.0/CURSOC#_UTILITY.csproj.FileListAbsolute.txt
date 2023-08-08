@@ -1,0 +1,24 @@
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#_UTILITY\bin\Debug\net7.0\CURSOC#_UTILITY.deps.json
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#_UTILITY\bin\Debug\net7.0\CURSOC#_UTILITY.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#_UTILITY\bin\Debug\net7.0\CURSOC#_UTILITY.pdb
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#_UTILITY\obj\Debug\net7.0\CURSOC#_UTILITY.csproj.AssemblyReference.cache
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#_UTILITY\obj\Debug\net7.0\CURSOC#_UTILITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#_UTILITY\obj\Debug\net7.0\CURSOC#_UTILITY.AssemblyInfoInputs.cache
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#_UTILITY\obj\Debug\net7.0\CURSOC#_UTILITY.AssemblyInfo.cs
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#_UTILITY\obj\Debug\net7.0\CURSOC#_UTILITY.csproj.CoreCompileInputs.cache
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#_UTILITY\obj\Debug\net7.0\CURSOC#_UTILITY.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#_UTILITY\obj\Debug\net7.0\refint\CURSOC#_UTILITY.dll
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#_UTILITY\obj\Debug\net7.0\CURSOC#_UTILITY.pdb
+C:\Users\YOELPORT\OneDrive\Escritorio\CURSOSOLUC\CURSOC#_UTILITY\obj\Debug\net7.0\ref\CURSOC#_UTILITY.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#_UTILITY\bin\Debug\net7.0\CURSOC#_UTILITY.deps.json
+D:\Proyectos\Web APIs (NET 7)\CURSOC#_UTILITY\bin\Debug\net7.0\CURSOC#_UTILITY.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#_UTILITY\bin\Debug\net7.0\CURSOC#_UTILITY.pdb
+D:\Proyectos\Web APIs (NET 7)\CURSOC#_UTILITY\obj\Debug\net7.0\CURSOC#_UTILITY.csproj.AssemblyReference.cache
+D:\Proyectos\Web APIs (NET 7)\CURSOC#_UTILITY\obj\Debug\net7.0\CURSOC#_UTILITY.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Web APIs (NET 7)\CURSOC#_UTILITY\obj\Debug\net7.0\CURSOC#_UTILITY.AssemblyInfoInputs.cache
+D:\Proyectos\Web APIs (NET 7)\CURSOC#_UTILITY\obj\Debug\net7.0\CURSOC#_UTILITY.AssemblyInfo.cs
+D:\Proyectos\Web APIs (NET 7)\CURSOC#_UTILITY\obj\Debug\net7.0\CURSOC#_UTILITY.csproj.CoreCompileInputs.cache
+D:\Proyectos\Web APIs (NET 7)\CURSOC#_UTILITY\obj\Debug\net7.0\CURSOC#_UTILITY.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#_UTILITY\obj\Debug\net7.0\refint\CURSOC#_UTILITY.dll
+D:\Proyectos\Web APIs (NET 7)\CURSOC#_UTILITY\obj\Debug\net7.0\CURSOC#_UTILITY.pdb
+D:\Proyectos\Web APIs (NET 7)\CURSOC#_UTILITY\obj\Debug\net7.0\ref\CURSOC#_UTILITY.dll
